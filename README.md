@@ -1,10 +1,10 @@
 # giochiAzzardo
 
-![Repository Size](https://img.shields.io/github/repo-size/MrErmita/giochiAzzardo)
-![Ultimo Commit](https://img.shields.io/github/last-commit/MrErmita/giochiAzzardo)
-![Linguaggio](https://img.shields.io/github/languages/top/MrErmita/giochiAzzardo)
-![Issue aperte](https://img.shields.io/github/issues/MrErmita/giochiAzzardo)
-![License](https://img.shields.io/github/license/MrErmita/giochiAzzardo)
+![Repository Size](https://img.shields.io/github/repo-size/lwsioo/giochiAzzardo)
+![Ultimo Commit](https://img.shields.io/github/last-commit/lwsioo/giochiAzzardo)
+![Linguaggio](https://img.shields.io/github/languages/top/lwsioo/giochiAzzardo)
+![Issue aperte](https://img.shields.io/github/issues/lwsioo/giochiAzzardo)
+![License](https://img.shields.io/github/license/lwsioo/giochiAzzardo)
 
 Progetto di giochi d'azzardo sviluppati in C, con implementazioni di vari giochi classici, per studio e sperimentazione.
 
